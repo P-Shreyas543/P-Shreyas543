@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About Me
 
-- 👋 Hi, I’m Shreyas P, a seasoned Electronics and Communication Engineer and Embedded Systems Developer with extensive experience in IoT, Robotics, AI, and hardware design.
+- 👋 Hi, I’m Shreyas P, a seasoned Electronics and Communication Engineer and Embedded Systems Developer with extensive experience in IoT, Robotics and hardware design.
 - 🌟 I specialize in **microcontroller programming**, building **smart systems**, and developing cutting-edge solutions that bridge the gap between hardware and software.
 - 🚀 Currently diving into **ESP32-based projects**, **AI-powered robotics**, and **real-time communication** technologies like **UDP**.
 - 🔧 I love working with a variety of **embedded platforms**, including **ESP32**, **STM32**, **LPC2148** and **ATSAM4E16C** and integrating innovative peripherals for powerful solutions.
